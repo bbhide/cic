@@ -1,0 +1,5 @@
+
+.cic-data table { width: 100%; }
+.cic-data th { font-weight: bold; border-bottom: 1px solid #d8d8d8; }
+.cic-data th,td { padding: 5px; width: 50%; text-align: center; }
+.cic-data td { background-color: #f2f2f2; }
